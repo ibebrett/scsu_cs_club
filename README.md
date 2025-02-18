@@ -1,4 +1,4 @@
-# SCSU CS Club
+# SCSU CS Projects Club
 
 ## About
 
